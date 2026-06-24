@@ -1,0 +1,257 @@
+[
+  {
+    "name": "water",
+    "pdbName": "水分子",
+    "formula": "H₂O",
+    "desc": "V形结构，生命之源",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/water.sdf",
+    "cid": 962,
+    "atoms": 3
+  },
+  {
+    "name": "carbon dioxide",
+    "pdbName": "二氧化碳",
+    "formula": "CO₂",
+    "desc": "直线型，温室气体",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/carbon_dioxide.sdf",
+    "cid": 280,
+    "atoms": 3
+  },
+  {
+    "name": "oxygen",
+    "pdbName": "氧气",
+    "formula": "O₂",
+    "desc": "双原子，支持燃烧",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/oxygen.sdf",
+    "cid": 977,
+    "atoms": 2
+  },
+  {
+    "name": "nitrogen",
+    "pdbName": "氮气",
+    "formula": "N₂",
+    "desc": "空气中占78%",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/nitrogen.sdf",
+    "cid": 947,
+    "atoms": 2
+  },
+  {
+    "name": "methane",
+    "pdbName": "甲烷",
+    "formula": "CH₄",
+    "desc": "正四面体，天然气主分",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/methane.sdf",
+    "cid": 297,
+    "atoms": 5
+  },
+  {
+    "name": "ammonia",
+    "pdbName": "氨气",
+    "formula": "NH₃",
+    "desc": "三角锥形，刺激性气味",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/ammonia.sdf",
+    "cid": 222,
+    "atoms": 4
+  },
+  {
+    "name": "dihydrogen",
+    "pdbName": "氢气",
+    "formula": "H₂",
+    "desc": "最轻气体，高热值燃料",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/dihydrogen.sdf",
+    "cid": 783,
+    "atoms": 2,
+    "modelType": "2d"
+  },
+  {
+    "name": "hydrogen chloride",
+    "pdbName": "氯化氢",
+    "formula": "HCl",
+    "desc": "酸性气体，溶于水成盐酸",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/hydrogen_chloride.sdf",
+    "cid": 313,
+    "atoms": 2
+  },
+  {
+    "name": "sodium chloride",
+    "pdbName": "氯化钠",
+    "formula": "NaCl",
+    "desc": "离子晶体，食盐",
+    "hasModel": false
+  },
+  {
+    "name": "ozone",
+    "pdbName": "臭氧",
+    "formula": "O₃",
+    "desc": "V形，地球保护层",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/ozone.sdf",
+    "cid": 24823,
+    "atoms": 3
+  },
+  {
+    "name": "hydrogen peroxide",
+    "pdbName": "过氧化氢",
+    "formula": "H₂O₂",
+    "desc": "消毒剂，强氧化剂",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/hydrogen_peroxide.sdf",
+    "cid": 784,
+    "atoms": 4
+  },
+  {
+    "name": "sulfur dioxide",
+    "pdbName": "二氧化硫",
+    "formula": "SO₂",
+    "desc": "V形，酸雨成因之一",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/sulfur_dioxide.sdf",
+    "cid": 1119,
+    "atoms": 3
+  },
+  {
+    "name": "nitrogen dioxide",
+    "pdbName": "二氧化氮",
+    "formula": "NO₂",
+    "desc": "红棕色，有毒气体",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/nitrogen_dioxide.sdf",
+    "cid": 3032552,
+    "atoms": 3,
+    "modelType": "2d"
+  },
+  {
+    "name": "ethylene",
+    "pdbName": "乙烯",
+    "formula": "C₂H₄",
+    "desc": "平面型，植物催熟剂",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/ethylene.sdf",
+    "cid": 6325,
+    "atoms": 6
+  },
+  {
+    "name": "acetylene",
+    "pdbName": "乙炔",
+    "formula": "C₂H₂",
+    "desc": "直线型，可燃气体",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/acetylene.sdf",
+    "cid": 6326,
+    "atoms": 4
+  },
+  {
+    "name": "ethanol",
+    "pdbName": "乙醇",
+    "formula": "C₂H₆O",
+    "desc": "酒精，可燃有机物",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/ethanol.sdf",
+    "cid": 702,
+    "atoms": 9
+  },
+  {
+    "name": "glucose",
+    "pdbName": "葡萄糖",
+    "formula": "C₆H₁₂O₆",
+    "desc": "生命能量来源",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/glucose.sdf",
+    "cid": 5793,
+    "atoms": 24
+  },
+  {
+    "name": "sulfur s8",
+    "pdbName": "硫",
+    "formula": "S₈",
+    "desc": "环状分子，黄绿色固体",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/sulfur_s8.sdf",
+    "cid": 66348,
+    "atoms": 8
+  },
+  {
+    "name": "phosphorus p4",
+    "pdbName": "磷",
+    "formula": "P₄",
+    "desc": "正四面体，白磷有剧毒",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/phosphorus_p4.sdf",
+    "cid": 91712113,
+    "atoms": 4,
+    "modelType": "2d"
+  },
+  {
+    "name": "iron",
+    "pdbName": "铁",
+    "formula": "Fe",
+    "desc": "金属晶体结构",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/iron.sdf",
+    "cid": 23925,
+    "atoms": 1,
+    "modelType": "2d"
+  },
+  {
+    "name": "copper",
+    "pdbName": "铜",
+    "formula": "Cu",
+    "desc": "紫红色金属",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/copper.sdf",
+    "cid": 23978,
+    "atoms": 1,
+    "modelType": "2d"
+  },
+  {
+    "name": "gold",
+    "pdbName": "金",
+    "formula": "Au",
+    "desc": "贵金属，延展性最好",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/gold.sdf",
+    "cid": 23985,
+    "atoms": 1,
+    "modelType": "2d"
+  },
+  {
+    "name": "diamond",
+    "pdbName": "金刚石",
+    "formula": "C",
+    "desc": "正四面体网状，最硬天然物质",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/diamond.sdf",
+    "cid": 5462310,
+    "atoms": 1,
+    "modelType": "2d"
+  },
+  {
+    "name": "graphite",
+    "pdbName": "石墨",
+    "formula": "C",
+    "desc": "层状结构，铅笔芯材料",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/graphite.sdf",
+    "cid": 5462310,
+    "atoms": 1,
+    "modelType": "2d"
+  },
+  {
+    "name": "silicon dioxide",
+    "pdbName": "二氧化硅",
+    "formula": "SiO₂",
+    "desc": "原子晶体，玻璃主分",
+    "hasModel": true,
+    "sdfPath": "/models/molecules/silicon_dioxide.sdf",
+    "cid": 24261,
+    "atoms": 3
+  }
+]
